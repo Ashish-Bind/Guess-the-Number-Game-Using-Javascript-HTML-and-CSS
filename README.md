@@ -8,4 +8,4 @@ Simple Javascript project used to build this game
 
 ## Link for the Game
 
-- [Guess the Number](https://www.github.com/octokatherine)
+- [Guess the Number](https://ashish-bind.github.io/Guess-the-Number-Game-Using-Javascript-HTML-and-CSS/)
